@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "「译」React vs Angular 2：冰与火之歌"
-subtitle:   "React versus Angular 2: There Will Be Blood"
+title:      "模板「译」React vs Angular 2：冰与火之歌"
+subtitle:   "模板React versus Angular 2: There Will Be Blood"
 date:       2016-02-01 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-re-vs-ng2.jpg"
