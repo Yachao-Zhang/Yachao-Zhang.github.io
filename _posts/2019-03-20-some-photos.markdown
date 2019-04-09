@@ -8,7 +8,7 @@ header-img: "img/home-bg-o.jpg"
 ---
 **谈不上是摄影，只想用心记录你的样子**
 
-<p align="center">习惯了四季分明的乡村</p>  
+<p align="center">习惯了往昔的四季分明</p>  
 <p align="center">你说,来到厦门感受不到的初春的气息那：</p>  
 <p align="center">柔软的柳条，鹅黄的绿</p>  
 <p align="center">暖暖的阳光，和煦的风</p>  
