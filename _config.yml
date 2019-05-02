@@ -15,10 +15,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     yachaozhang
-zhihu_username:     yachaozhang
-github_username:    yachaozhang
-twitter_username:   yachaozhang
+weibo_username:     PHOTO_Zhang
+zhihu_username:     风轻云淡张亚超
+github_username:    Yachao-Zhang
+#twitter_username:   yachaozhang
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
