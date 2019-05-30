@@ -9,49 +9,31 @@ header-img: "img/home-bg-o.jpg"
 
 *Summer song*
 
-Summer breeze
+Summer breeze<br>
+summer long<br>
+I'll sing to you<br>
+my summer song<br><br>
 
-summer long
-
-I'll sing to you
-
-my summer song
-
-
-Read a poem
-
-A summer song
-
-It isn't long
-
-It's just a song
+Read a poem<br>
+A summer song<br>
+It isn't long<br>
+It's just a song<br><br>
 
 
-From my heart
+From my heart<br>
+a poem long<br>
+but not at all<br>
+my summer song<br><br>
 
-a poem long
-
-but not at all
-
-my summer song
-
-
-My summer long
-
-is something special
-
-a poem, a song
-
+My summer long<br>
+is something special<br>
+a poem, a song<br>
 to my heart belong <br><br>
 
-
-Summer breeze
-
-summer long
-
-I'll sing to you
-
-my summer song 
+Summer breeze<br>
+summer long<br>
+I'll sing to you<br>
+my summer song <br>
 
 相册**初夏**
 
