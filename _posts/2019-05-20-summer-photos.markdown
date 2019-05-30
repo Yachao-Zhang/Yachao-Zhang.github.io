@@ -42,7 +42,7 @@ is something special
 
 a poem, a song
 
-to my heart belong
+to my heart belong <br><br>
 
 
 Summer breeze
@@ -53,7 +53,7 @@ I'll sing to you
 
 my summer song 
 
-**相册——初夏**
+相册**初夏**
 
 <img class="shadow" src="/img/summer/1.jpg" width="2060">
 
