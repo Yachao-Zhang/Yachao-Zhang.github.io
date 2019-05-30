@@ -6,7 +6,54 @@ date:       2019-05-20 20:00:00
 author:     "疯子张"
 header-img: "img/home-bg-o.jpg"
 ---
-**初夏**
+
+*Summer song*
+
+Summer breeze
+
+summer long
+
+I'll sing to you
+
+my summer song
+
+
+Read a poem
+
+A summer song
+
+It isn't long
+
+It's just a song
+
+
+From my heart
+
+a poem long
+
+but not at all
+
+my summer song
+
+
+My summer long
+
+is something special
+
+a poem, a song
+
+to my heart belong
+
+
+Summer breeze
+
+summer long
+
+I'll sing to you
+
+my summer song 
+
+**相册——初夏**
 
 <img class="shadow" src="/img/summer/1.jpg" width="2060">
 
