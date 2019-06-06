@@ -5,7 +5,7 @@ title: Blog of Yachao Zhang
 SEOTitle: YachaoZhang | Chao Blog
 header-img: img/home-bg.jpg
 email: yachaozhang@stu.xmu.edu.cn
-description: "关于程序与设计、黑客与书法家 | 张亚超，Web & Mobile Lover，Software Engineer，calligraphy Designer | 这里是 @亚超 的个人博客，与你一起发现更大的世界。"
+description: "计算机视觉算法设计、摄影与书法家 | 张亚超，Web & Photo Lover，AI Designer | 这里是 @张亚超 的个人博客，与你一起发现更大的世界。"
 keyword: "张亚超, ZhangYachao, 张亚超的博客, 行者, 博客, 个人网站, ML, Web, python, 深度学习"
 url: "https://Yachao-Zhang.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -120,22 +120,7 @@ friends: [
         title: "My GitHub Project",
         href: "https://github.com/Yachao-Zhang"
     },{
-        title: "muyaan's Blog",
-        href: "http://muyaan.com/archives/page/3//"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
         title: "远见-张亚超",
         href: "http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=39381435&scholarName=%E5%BC%A0%E4%BA%9A%E8%B6%85"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
     }
 ]
