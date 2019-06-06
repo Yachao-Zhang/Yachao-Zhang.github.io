@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "谈不上是摄影，只想用心记录你的样子"
+title:      "谈不上是摄影，用心记录你的样子"
 subtitle:   ""
 date:       2019-04-05 20:00:00
 author:     "疯子张"
 header-img: "img/home-bg-o.jpg"
 ---
-**谈不上是摄影，只想用心记录你的样子**
+**谈不上是摄影，用心记录你的样子**
 
 <p align="center">习惯了往昔的四季分明</p>  
 <p align="center">你说,来到厦门感受不到的初春的气息那：</p>  
