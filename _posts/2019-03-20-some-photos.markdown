@@ -25,6 +25,7 @@ header-img: "img/home-bg-o.jpg"
 <p align="center">只想此生用心记录你的样子！</p>  
   
 **最后分享一下相册之《初春如你》**
+<br>
 <img class="shadow" src="/img/springasyou/5.jpg" width="2060">
 
 <img class="shadow" src="/img/springasyou/7.jpg" width="2060">
@@ -49,3 +50,5 @@ header-img: "img/home-bg-o.jpg"
 
 <p align="right">2019年03月15日</p>
 <p align="right">拍摄于厦门鼓浪屿</p>
+<br>
+记录自己的第一个摄影相册，自己是在不断尝试调色学习过程，所有这个相册的色调是不统一的，场景和照片中人物姿态也没有融入逻辑。简单记录下我们的博士生活，追梦路上适当减减压。
