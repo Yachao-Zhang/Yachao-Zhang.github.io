@@ -11,9 +11,9 @@ redirect_from:
 
 🏳️‍🌈 My research interests include, but are not limited to: **3D Computer Vision** (3D computer vision, 3D digital human avatar), **Machine Learning** (weakly-supervised learning, unsupervised learning, transfer learning). If you are interested in my research or have any use cases that you want to share, feel free to contact me!
 
-🤡**I am actively recruiting self-motivated master students.** 🤝
+🤡**I am actively recruiting self-motivated master students. The positions for master’s students are already full for the years 2025 and 2026.** 🤝
 
-<li> I plan to admit 2-4 master students in 2025 and 2026. I am not concerned about the level of your undergraduate institution; I require a down-to-earth attitude, the drive to improve, a strong sense of self-motivation, and compliance with the laboratory’s unified management.
+<li> I plan to admit 2 master students in 2027. I am not concerned about the level of your undergraduate institution; I require a down-to-earth attitude, the drive to improve, a strong sense of self-motivation, and compliance with the laboratory’s unified management.
 
 <li> For master students who aspire to work in the industry, I will focus on cultivating their practical skills. 
 
