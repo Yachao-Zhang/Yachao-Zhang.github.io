@@ -340,7 +340,7 @@ ________________________________________________________________________________
            </tbody>
            </table>
 </font>
-[Please visit [my Google Scholar profile]("https://scholar.google.com/citations?user=a-I8c8EAAAAJ&hl=en") for the full publication list.]
+[Please visit my <a href="https://scholar.google.com/citations?user=a-I8c8EAAAAJ&hl=en">Google Scholar profile</a> for the full publication list.]
 _______________________________________________________________________________________________________
 
 <h3>
