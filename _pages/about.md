@@ -50,16 +50,18 @@ ________________________________________________________________________________
 <div class="scroll-container">
   <div class="mini">
     <ul>
+  <li> <strong>[May 2025]</strong> One paper about the application of image generation in architecture is accepted by ACL 2025!</li>
+  <li> <strong>[Apr 2025]</strong> One paper about multi-modal learning is accepted by PR 2025!</li>
   <li> <strong>[Feb 2025]</strong> One paper about Text-to-Motion Generation with GPT-4Vision Reward is accepted by CVPR 2025!</li>
   <li> <strong>[Feb 2025]</strong> One paper about cross-modal 3D semantic segmentation is accepted by TCSVT!</li>
   <li> <strong>[Jan 2025]</strong> One paper about weakly-supervised point cloud semantic segmentation is accepted by TNNLS!</li>
-  <li> <strong>[Dec 2024]</strong> One paper about multi-modal learning are accepted by AAAI 2025!</li>
+  <li> <strong>[Dec 2024]</strong> One paper about multi-modal learning is accepted by AAAI 2025!</li>
   <li> <strong>[Sep 2024]</strong> Three papers about multi-modal learning are accepted by NeurIPS 2024!</li>
   <li> <strong>[Aug 2024]</strong> Three papers about multi-modal learning are accepted by ACMMM 2024!</li>
   <li> <strong>[Jul 2024]</strong> One paper about multi-modal label efficient learning is accepted by ECCV 2024!</li>
   <li> <strong>[Jun 2024]</strong> One paper about Object Detection is accepted by TNNLS!</li>
   <li> <strong>[Feb 2024]</strong> One paper about AI ChoreoMaster is accepted by CVPR 2024!</li>
-  <li> <strong>[Jan 2024]</strong> One papers about about camouflaged object detection is accepted by ICLR 2024!</li>
+  <li> <strong>[Jan 2024]</strong> One paper about camouflaged object detection is accepted by ICLR 2024!</li>
   <li> <strong>[Dec 2023]</strong> Three papers about digital human avatar and cross-modal zero-shot learning are accepted by ICASSP 2024!</li>
   <li> <strong>[Dec 2023]</strong> Two papers about multi-modal understanding and multi-modal gestures generation are accepted by AAAI 2024!</li>
   <li> <strong>[Oct 2023]</strong> Our paper about Semi-Supervised Defect Segmentation is accepted by TNNLS!</li>
