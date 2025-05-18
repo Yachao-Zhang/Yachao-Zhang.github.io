@@ -51,7 +51,7 @@ ________________________________________________________________________________
   <div class="mini">
     <ul>
   <li> <strong>[May 2025]</strong> One paper about the application of image generation in architecture is accepted by ACL 2025!</li>
-  <li> <strong>[Apr 2025]</strong> One paper about multi-modal learning is accepted by PR 2025!</li>
+  <li> <strong>[Apr 2025]</strong> One paper about multi-modal learning is accepted by PR!</li>
   <li> <strong>[Feb 2025]</strong> One paper about Text-to-Motion Generation with GPT-4Vision Reward is accepted by CVPR 2025!</li>
   <li> <strong>[Feb 2025]</strong> One paper about cross-modal 3D semantic segmentation is accepted by TCSVT!</li>
   <li> <strong>[Jan 2025]</strong> One paper about weakly-supervised point cloud semantic segmentation is accepted by TNNLS!</li>
@@ -176,7 +176,7 @@ ________________________________________________________________________________
                     <td>
                             <b>Chain of Generation: Multi-Modal Gesture Synthesis via Cascaded Conditional Control</b>
                     <br>
-                     Zunnan Xu，<strong>Yachao Zhang</strong>📧，Sicheng Yang，Ronghui Li，Xiu Li📧.
+                     Zunnan Xu，<strong>Yachao Zhang</strong>📧, Sicheng Yang, Ronghui Li, Xiu Li📧.
                     <br>
                     <em>Association for the Advance of Artificial Intelligence (AAAI 2024)</em>
                     <br>
@@ -340,7 +340,7 @@ ________________________________________________________________________________
            </tbody>
            </table>
 </font>
-[Please visit [my google scholar profile](https://scholar.google.com/citations?user=a-I8c8EAAAAJ&hl=en) for the full publication list.]
+[Please visit [my Google Scholar profile]("https://scholar.google.com/citations?user=a-I8c8EAAAAJ&hl=en") for the full publication list.]
 _______________________________________________________________________________________________________
 
 <h3>
