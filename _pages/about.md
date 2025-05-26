@@ -50,6 +50,7 @@ ________________________________________________________________________________
 <div class="scroll-container">
   <div class="mini">
     <ul>
+  <li> <strong>[May 2025]</strong> One paper about image recognition is accepted by  TPAMI!</li>
   <li> <strong>[May 2025]</strong> One paper about the application of image generation in architecture is accepted by ACL 2025!</li>
   <li> <strong>[Apr 2025]</strong> One paper about multi-modal learning is accepted by PR!</li>
   <li> <strong>[Feb 2025]</strong> One paper about Text-to-Motion Generation with GPT-4Vision Reward is accepted by CVPR 2025!</li>
