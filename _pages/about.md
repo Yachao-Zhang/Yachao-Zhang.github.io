@@ -104,6 +104,34 @@ ________________________________________________________________________________
            <tbody>
                <tr>
                     <td width="40%">
+                        <img width="320" src="../images/acmmm25.png" border="0">
+                            </td>
+                    <td>
+                            <b>SeqVLM: Proposal-Guided Multi-View Sequences Reasoning via VLM for Zero-Shot 3D Visual Grounding</b>
+                    <br>
+                    Jiawen Lin, Shiran Bian, Yihang Zhu, Wenbin Tan, <strong>Yachao Zhang</strong>📧 Yuan Xie, Yanyun Qu📧. 
+                    <br>
+                    <em>ACM International Conference on Multimedia (ACMMM 2025)</em>
+                    <br>
+                   [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28566">Paper coming soon</a>][<a href="https://github.com/Yachao-Zhang">Code coming soon!</a>]
+                    </td>
+               </tr>
+               <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/iccv25.png" border="0">
+                            </td>
+                    <td>
+                            <b>Task-Aware Prompt Gradient Projection for Parameter-Efficient Tuning Federated Class-Incremental Learning</b>
+                    <br>
+                    Hualong Ke, <strong>Yachao Zhang</strong>📧, Jiangming Shi, FangyongWang, Yuan Xie, Yanyun Qu📧.
+                    <br>
+                    <em>IEEE/CVF International Conference on Computer Vision (ICCV 2025)</em>
+                    <br>
+                   [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28566">Paper coming soon</a>][<a href="https://github.com/Yachao-Zhang">Code coming soon!</a>]
+                    </td>
+               </tr>
+               <tr>
+                    <td width="40%">
                         <img width="320" src="../images/t2m.png" border="0">
                             </td>
                     <td>
