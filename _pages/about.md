@@ -50,6 +50,8 @@ ________________________________________________________________________________
 <div class="scroll-container">
   <div class="mini">
     <ul>
+  <li> <strong>[Jul 2025]</strong> Three papers about multi-modal learning are accepted by ACMMMM 2025!</li>
+  <li> <strong>[Jun 2025]</strong> Three papers about multi-modal learning are accepted by ICCV 2025!</li>
   <li> <strong>[May 2025]</strong> One paper about image recognition is accepted by  TPAMI!</li>
   <li> <strong>[May 2025]</strong> One paper about the application of image generation in architecture is accepted by ACL 2025!</li>
   <li> <strong>[Apr 2025]</strong> One paper about multi-modal learning is accepted by PR!</li>
