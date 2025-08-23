@@ -11,15 +11,19 @@ redirect_from:
 
 🏳️‍🌈 My research interests include, but are not limited to: **3D Computer Vision** (3D computer vision, 3D digital human avatar), **Machine Learning** (weakly-supervised learning, unsupervised learning, transfer learning). If you are interested in my research or have any use cases that you want to share, feel free to contact me!
 
-🤡**I am actively recruiting self-motivated master students. The positions for master’s students are already full for the years 2025 and 2026.** 🤝
+🤡**I am actively recruiting self-motivated master students.** 🤝
 
-<li> I plan to admit 2 master students in 2027. I am not concerned about the level of your undergraduate institution; I require a down-to-earth attitude, the drive to improve, a strong sense of self-motivation, and compliance with the laboratory’s unified management.
-
-<li> For master students who aspire to work in the industry, I will focus on cultivating their practical skills. 
-
-<li> For master students who wish to further their academic studies, I will train them to the standard of PhD students, equipping them with the ability to conduct independent research.  
+<li> I plan to admit 2 master students in 2027. 
 
 <li> I am also recruiting several high-year undergraduate interns. The recruitment is aimed at students majoring in computer science, automation, mathematics, and related fields.
+
+<li> I require a down-to-earth attitude, the drive to improve, a strong sense of self-motivation, and compliance with the laboratory’s unified management.
+
+<li> <font color=red>注意：课题组学习、科研要求比较高，想水个硕士不要联系；</font>
+
+<li> <font color=red>注意：推免的同学不要把我作为唯一选择；</font>
+  
+<li> <font color=red>注意：想加入课题组的，请提前联系跟随课题组学习（学习产生的成果归你自己所有），发邮件注明：学习XX个月；</font>
 _______________________________________________________________________________________________________
 
 <html lang="en">
