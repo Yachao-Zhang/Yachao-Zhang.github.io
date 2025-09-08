@@ -19,9 +19,9 @@ redirect_from:
 
 <li> I require a down-to-earth attitude, the drive to improve, a strong sense of self-motivation, and compliance with the laboratory’s unified management.
 
-<li> <font color=red>注意：课题组学习、科研要求比较高，想水个硕士不要联系；</font>
+<li> <font color=red>注意：推免的同学请直接报名，无需套磁；考研的同学，通过复试后联系；</font>
 
-<li> <font color=red>注意：推免的同学不要把我作为唯一选择；</font>
+<li> <font color=red>注意：课题组学习、科研要求比较高，想水个硕士不要联系；</font>
   
 <li> <font color=red>注意：想加入课题组的，请提前联系跟随课题组学习（学习产生的成果归你所有），发邮件注明：学习XX个月，未认真读以上信息的不予回复；</font>
 _______________________________________________________________________________________________________
