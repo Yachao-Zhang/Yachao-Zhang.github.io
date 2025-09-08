@@ -13,7 +13,7 @@ redirect_from:
 
 🤡**I am actively recruiting self-motivated master students.** 🤝
 
-<li> I plan to admit 2 master students in 2027. 
+<li> I plan to admit 2 master students. 
 
 <li> I am also recruiting several high-year undergraduate interns. The recruitment is aimed at students majoring in computer science, automation, mathematics, and related fields.
 
