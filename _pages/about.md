@@ -119,7 +119,7 @@ ________________________________________________________________________________
                     <br>
                     <em>ACM International Conference on Multimedia (ACMMM 2025)</em>
                     <br>
-                   [<a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754985">Paper</a>][<a href="https://github.com/Yachao-Zhang">Code coming soon!</a>]
+                   [<a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754985">Paper</a>][<a href="https://github.com/Yachao-Zhang/SeqVLM">Code</a>]
                     </td>
                </tr>
                <tr>
@@ -147,7 +147,7 @@ ________________________________________________________________________________
                     <br>
                     <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, 2025)</em>
                     <br>
-                   [<a href="https://arxiv.org/abs/2411.18654">Paper</a>][<a href="https://atom-motion.github.io/">Project Page</a>]
+                   [<a href="https://arxiv.org/abs/2411.18654">Paper</a>][<a href="https://atom-motion.github.io/">Project Page</a>] [<a href="https://github.com/Yachao-Zhang/AToM">Code</a>] 
                     </td>
                </tr>
                <tr>
