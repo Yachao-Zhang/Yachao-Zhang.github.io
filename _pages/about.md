@@ -217,7 +217,7 @@ ________________________________________________________________________________
                     <br>
                     <em>Association for the Advance of Artificial Intelligence (AAAI 2024)</em>
                     <br>
-                   [<a href="https://arxiv.org/abs/2312.15900">Paper</a>][<a href="https://github.com/Yachao-Zhang">Code coming soon!</a>]
+                   [<a href="https://arxiv.org/abs/2312.15900">Paper</a>][<a href="https://kkakkkka.github.io/cog_page/">Code</a>]
                     </td>
                </tr>
              <tr>
@@ -231,7 +231,7 @@ ________________________________________________________________________________
                     <br>
                     <em>Association for the Advance of Artificial Intelligence (AAAI 2024)</em>
                     <br>
-                    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28566">Paper</a>][<a href="https://github.com/Yachao-Zhang">Code coming soon!</a>]
+                    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28566">Paper</a>]
                     </td>
                </tr>
          <tr>
