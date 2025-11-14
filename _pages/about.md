@@ -119,7 +119,7 @@ ________________________________________________________________________________
                     <br>
                     <em>ACM International Conference on Multimedia (ACMMM 2025)</em>
                     <br>
-                   [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28566">Paper coming soon</a>][<a href="https://github.com/Yachao-Zhang">Code coming soon!</a>]
+                   [<a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754985">Paper</a>][<a href="https://github.com/Yachao-Zhang">Code coming soon!</a>]
                     </td>
                </tr>
                <tr>
@@ -133,7 +133,7 @@ ________________________________________________________________________________
                     <br>
                     <em>IEEE/CVF International Conference on Computer Vision (ICCV 2025)</em>
                     <br>
-                   [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28566">Paper coming soon</a>][<a href="https://github.com/Yachao-Zhang">Code coming soon!</a>]
+                   [<a href="https://openaccess.thecvf.com/content/ICCV2025/html/Ke_Task-Aware_Prompt_Gradient_Projection_for_Parameter-Efficient_Tuning_Federated_Class-Incremental_Learning_ICCV_2025_paper.html">Paper</a>][<a href="https://github.com/Yachao-Zhang">Code coming soon!</a>]
                     </td>
                </tr>
                <tr>
