@@ -108,6 +108,48 @@ ________________________________________________________________________________
 <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+             <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/aaai263.png" border="0">
+                            </td>
+                    <td>
+                            <b>xMHashSeg: Cross-modal Hash Learning for Training-free Unsupervised LiDAR Semantic Segmentation</b>
+                    <br>
+                      Jialong Zhang, <strong>Yachao Zhang</strong>📧, Yao Wu, Jiangming Shi, FangyongWang, Yanyun Qu📧.
+                    <br>
+                    <em>The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</em>
+                    <br>
+                   [<a href="https:">Paper</a>][<a href="https://github.com/Kznnd/xMHashSeg/tree/main">Code</a>]
+                    </td>
+               </tr>
+               <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/aaai262.png" border="0">
+                            </td>
+                    <td>
+                            <b>PC-CrossDiff: Point-Cluster Dual-Level Cross-Modal Differential Attention for Unified 3D Referring and Segmentation</b>
+                    <br>
+                      Wenbin Tan, Jiawen Lin, <strong>Yachao Zhang</strong>📧，Yanyun Qu📧, Yuan Xie, FangyongWang, Yong Xie.
+                    <br>
+                    <em>The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</em>
+                    <br>
+                   [<a href="https:">Paper</a>][<a href="https://github.com/Yachao-Zhang">Code</a>]
+                    </td>
+               </tr>
+              <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/aaai262.png" border="0">
+                            </td>
+                    <td>
+                            <b>BeyondSparse: Facilitating Mamba to Enhance Cross-Domain 3D Semantic Segmentation in Adverse Weather</b>
+                    <br>
+                    Yao Wu, Mingwei Xing, <strong>Yachao Zhang</strong>📧， FangyongWang, Xiaopei Zhang, Yanyun Qu📧. 
+                    <br>
+                    <em>The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</em>
+                    <br>
+                   [<a href="https:">Paper</a>][<a href="https://github.com/Barcaaaa/BeyondSparse">Code</a>]
+                    </td>
+               </tr>
                <tr>
                     <td width="40%">
                         <img width="320" src="../images/acmmm25.png" border="0">
