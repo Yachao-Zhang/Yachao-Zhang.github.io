@@ -138,12 +138,12 @@ ________________________________________________________________________________
                </tr>
               <tr>
                     <td width="40%">
-                        <img width="320" src="../images/aaai262.png" border="0">
+                        <img width="320" src="../images/aaai261.png" border="0">
                             </td>
                     <td>
                             <b>BeyondSparse: Facilitating Mamba to Enhance Cross-Domain 3D Semantic Segmentation in Adverse Weather</b>
                     <br>
-                    Yao Wu, Mingwei Xing, <strong>Yachao Zhang</strong>📧， FangyongWang, Xiaopei Zhang, Yanyun Qu📧. 
+                    Yao Wu, Mingwei Xing, <strong>Yachao Zhang</strong>📧, Fangyong Wang, Xiaopei Zhang, Yanyun Qu📧. 
                     <br>
                     <em>The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</em>
                     <br>
