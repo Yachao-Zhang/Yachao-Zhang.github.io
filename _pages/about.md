@@ -53,7 +53,8 @@ ________________________________________________________________________________
 </h3>
 <div class="scroll-container">
   <div class="mini">
-    <ul>
+    <ul>   
+  <li> <strong>[Feb 2026]</strong> Two papers about multi-modal open vocabulary learning are accepted by CVPR 2026!</li>
   <li> <strong>[Nov 2025]</strong> Four papers about multi-modal open vocabulary learning are accepted by AAAI 2026!</li>
   <li> <strong>[Oct 2025]</strong> One paper about AI ChoreoMaster is accepted by TPAMI!</li>
   <li> <strong>[Jul 2025]</strong> Three papers about multi-modal learning are accepted by ACMMM 2025!</li>
