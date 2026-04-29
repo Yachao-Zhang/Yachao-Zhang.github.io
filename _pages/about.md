@@ -456,6 +456,6 @@ ________________________________________________________________________________
  
 _______________________________________________________________________________________________________
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ve6F6SS11iG4uIguoTWVRUjvilkuBNsM2hxvFs-6aos&cl=ffffff&w=0.5a&t=tt"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ve6F6SS11iG4uIguoTWVRUjvilkuBNsM2hxvFs-6aos&cl=ffffff&w=200&t=tt"></script>
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=uSDu8RA70eVMmIMj7iDdcESRuIURwx-vJqDITuFFo0o&cl=ffffff&w=0.5a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=uSDu8RA70eVMmIMj7iDdcESRuIURwx-vJqDITuFFo0o&cl=ffffff&w=200"></script>
