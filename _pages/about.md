@@ -33,7 +33,7 @@ ________________________________________________________________________________
 <title>News滚动展示</title>
 <style>
   .scroll-container {
-    max-height: 500px; /* 设置最大高度 */
+    max-height: 600px; /* 设置最大高度 */
     overflow-y: auto; /* 添加垂直滚动条 */
     border: 1px solid #ccc; /* 可选：添加边框 */
     padding: 10px; /* 可选：添加内边距 */
@@ -460,7 +460,7 @@ ________________________________________________________________________________
 <div class="maps-container" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start; margin: 20px 0;">
   <!-- ClustrMaps 地图 -->
   <div class="map-item" style="flex: 1; min-width: 200px; max-width: 400px;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ve6F6SS11iG4uIguoTWVRUjvilkuBNsM2hxvFs-6aos&cl=ffffff&w=a&t=tt&t=m"></script>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ve6F6SS11iG4uIguoTWVRUjvilkuBNsM2hxvFs-6aos&cl=ffffff&w=a&t=tt"></script>
   </div>
   
   <!-- MapMyVisitors 地图 -->
