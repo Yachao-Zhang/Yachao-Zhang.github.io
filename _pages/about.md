@@ -106,6 +106,7 @@ ________________________________________________________________________________
 <h3>
   <a name="Publications"></a> 📚Selected Publications (1️⃣ Equal contribution, 📧 Corresponding author)
 </h3>
+<div class="scroll-container">
 <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
@@ -420,6 +421,7 @@ ________________________________________________________________________________
            </tbody>
            </table>
 </font>
+  </div>
 [Please visit my <a href="https://scholar.google.com/citations?user=a-I8c8EAAAAJ&hl=en">Google Scholar profile</a> for the full publication list.]
 _______________________________________________________________________________________________________
 
