@@ -455,7 +455,14 @@ ________________________________________________________________________________
 
  
 _______________________________________________________________________________________________________
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ve6F6SS11iG4uIguoTWVRUjvilkuBNsM2hxvFs-6aos&cl=ffffff&w=200&t=tt"></script>
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=uSDu8RA70eVMmIMj7iDdcESRuIURwx-vJqDITuFFo0o&cl=ffffff&w=200"></script>
+<div class="maps-container" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start; margin: 20px 0;">
+  <!-- ClustrMaps 地图 -->
+  <div class="map-item" style="flex: 1; min-width: 200px; max-width: 400px;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ve6F6SS11iG4uIguoTWVRUjvilkuBNsM2hxvFs-6aos&cl=ffffff&w=200&t=tt"></script>
+  </div>
+  
+  <!-- MapMyVisitors 地图 -->
+  <div class="map-item" style="flex: 1; min-width: 200px; max-width: 400px;">
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=uSDu8RA70eVMmIMj7iDdcESRuIURwx-vJqDITuFFo0o&cl=ffffff&w=200"></script>
+  </div>
+</div>
