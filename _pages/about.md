@@ -110,6 +110,34 @@ ________________________________________________________________________________
 <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+               <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/cvpr262.png" border="0">
+                            </td>
+                    <td>
+                            <b>UZ3DVG: Unaided Zero-Shot 3D Visual Grounding with Generated Language Conditions</b>
+                    <br>
+                      Wenbin Tan, Jiawen Lin, Yuan Xie, <strong>Yachao Zhang</strong>📧, Yanyun Qu.
+                    <br>
+                    <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2026)</em>
+                    <br>
+                   [<a href="https://cvpr.thecvf.com/virtual/2026/poster/40167">Paper</a>][<a href="https">Code</a>]
+                    </td>
+               </tr>
+                 <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/cvpr261.png" border="0">
+                            </td>
+                    <td>
+                            <b>Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation</b>
+                    <br>
+                      Jiahao Li, Yang Lu, <strong>Yachao Zhang</strong>📧, FangyongWang, Yuan Xie, Yanyun Qu📧.
+                    <br>
+                    <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2026)</em>
+                    <br>
+                   [<a href="https://arxiv.org/abs/2604.07723">Paper</a>][<a href="https">Code</a>]
+                    </td>
+               </tr>
              <tr>
                     <td width="40%">
                         <img width="320" src="../images/aaai263.png" border="0">
