@@ -111,6 +111,21 @@ ________________________________________________________________________________
 <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+             <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/pr26.png" border="0">
+                            </td>
+                    <td>
+                            <b>Instructing visual feature modeling with semantic guidance for 3D visual grounding</b>
+                    <br>
+                      <strong>Yachao Zhang</strong>, Shiran Bian, Jiahao Li, Jiawen Lin, Fangyong Wang, Yong Xie, Yuan Xie, Yanyun Qu📧.
+                    <br>
+                    <em>Pattern Recognition </em>
+                    <br>
+                   [<a href="https://www.sciencedirect.com/science/article/pii/S0031320326008617">Paper</a>][<a href="https">Code</a>]
+                    </td>
+               </tr>
+             
                <tr>
                     <td width="40%">
                         <img width="320" src="../images/cvpr262.png" border="0">
