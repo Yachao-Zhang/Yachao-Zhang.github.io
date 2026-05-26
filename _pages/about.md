@@ -113,7 +113,7 @@ ________________________________________________________________________________
            <tbody>
              <tr>
                     <td width="40%">
-                        <img width="320" src="../images/pr26.png" border="0">
+                        <img width="320" src="../images/PR26.png" border="0">
                             </td>
                     <td>
                             <b>Instructing visual feature modeling with semantic guidance for 3D visual grounding</b>
