@@ -151,7 +151,7 @@ ________________________________________________________________________________
                     <br>
                     <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2026)</em>
                     <br>
-                   [<a href="https://arxiv.org/abs/2604.07723">Paper</a>][<a href="https://github.com/liblacklucy/DSLO">Code</a>]
+                   [<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Direct_Segmentation_without_Logits_Optimization_for_Training-Free_Open-Vocabulary_Semantic_Segmentation_CVPR_2026_paper.pdf">Paper</a>][<a href="https://github.com/liblacklucy/DSLO">Code</a>]
                     </td>
                </tr>
              <tr>
@@ -165,7 +165,7 @@ ________________________________________________________________________________
                     <br>
                     <em>The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</em>
                     <br>
-                   [<a href="https:">Paper</a>][<a href="https://github.com/Kznnd/xMHashSeg/tree/main">Code</a>]
+                   [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/38248">Paper</a>][<a href="https://github.com/Kznnd/xMHashSeg/tree/main">Code</a>]
                     </td>
                </tr>
                <tr>
