@@ -122,7 +122,7 @@ ________________________________________________________________________________
                     <br>
                     <em>Pattern Recognition </em>
                     <br>
-                   [<a href="https://www.sciencedirect.com/science/article/pii/S0031320326008617">Paper</a>][<a href="https">Code</a>]
+                   [<a href="https://www.sciencedirect.com/science/article/pii/S0031320326008617">Paper</a>][<a href="">Code</a>]
                     </td>
                </tr>
              
@@ -137,7 +137,7 @@ ________________________________________________________________________________
                     <br>
                     <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2026)</em>
                     <br>
-                   [<a href="https://cvpr.thecvf.com/virtual/2026/poster/40167">Paper</a>][<a href="https">Code</a>]
+                   [<a href="https://cvpr.thecvf.com/virtual/2026/poster/40167">Paper</a>][<a href="https://github.com/tanwb/UZ3DVG">Code</a>]
                     </td>
                </tr>
                  <tr>
@@ -147,7 +147,7 @@ ________________________________________________________________________________
                     <td>
                             <b>Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation</b>
                     <br>
-                      Jiahao Li, Yang Lu, <strong>Yachao Zhang</strong>📧, FangyongWang, Yuan Xie, Yanyun Qu📧.
+                      Jiahao Li, Yang Lu, <strong>Yachao Zhang</strong>📧, Fangyong Wang, Yuan Xie, Yanyun Qu📧.
                     <br>
                     <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2026)</em>
                     <br>
@@ -179,7 +179,7 @@ ________________________________________________________________________________
                     <br>
                     <em>The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</em>
                     <br>
-                   [<a href="https:">Paper</a>][<a href="https://github.com/Yachao-Zhang">Code</a>]
+                   [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/37892">Paper</a>][<a href="https://github.com/Yachao-Zhang/PC-CrossDiff">Code</a>]
                     </td>
                </tr>
               <tr>
