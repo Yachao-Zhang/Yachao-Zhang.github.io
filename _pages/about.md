@@ -54,6 +54,8 @@ ________________________________________________________________________________
 <div class="scroll-container">
   <div class="mini">
     <ul>   
+  <li> <strong>[Aug 2026]</strong> One paper about 3D self-supervised Learning is accepted by TITS!</li>
+  <li> <strong>[Jul 2026]</strong> one paper about multi-modal learning is accepted by ACMMM 2026!</li>
   <li> <strong>[May 2026]</strong> One paper about 3D Grounding are accepted by PR!</li>
   <li> <strong>[Feb 2026]</strong> Two papers about multi-modal open vocabulary learning are accepted by CVPR 2026!</li>
   <li> <strong>[Nov 2025]</strong> Four papers about multi-modal open vocabulary learning are accepted by AAAI 2026!</li>
