@@ -39,3 +39,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Homepage background (controlled by homepage_background in _config.yml)
+   ========================================================================== */
+
+body.homepage-background {
+  background-color: var(--homepage-background-color, #f5f7fa);
+}

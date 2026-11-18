@@ -11,7 +11,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body{% if page.url == "/" and site.homepage_background.enabled %} class="homepage-background" style="--homepage-background-color: {{ site.homepage_background.color | default: '#f5f7fa' }};"{% endif %}>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
