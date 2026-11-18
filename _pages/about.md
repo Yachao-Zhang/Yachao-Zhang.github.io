@@ -504,6 +504,11 @@ ________________________________________________________________________________
  
 _______________________________________________________________________________________________________
 
+<!-- 访问量统计（Busuanzi / 不蒜子） -->
+<div class="visit-counter" style="text-align: center; margin: 20px 0; font-size: 0.9em; color: #777;">
+  本站总访问量 <span id="busuanzi_value_site_pv">--</span> 次 &middot; 本站访客数 <span id="busuanzi_value_site_uv">--</span> 人 &middot; 本页访问量 <span id="busuanzi_value_page_pv">--</span> 次
+</div>
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <!--<div class="maps-container" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start; margin: 20px 0;">-->
   <!-- ClustrMaps 地图 -->
   <div class="map-item" style="flex: 1; min-width: 200px; max-width: 400px;">
